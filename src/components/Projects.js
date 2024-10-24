@@ -12,9 +12,8 @@ export default function Projects() {
             Websites I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+          As an IT engineer with a strong background in software development and hands-on experience in technologies like ReactJS, JavaScript, Java, and Salesforce Admin, you bring a versatile skill set to the table.
+         I have developed full-stack applications and specialized solutions, demonstrating proficiency in both frontend and backend development. I have an experience with cloud platforms like Salesforce, databases such as PostgreSQL and Firebase, and proficiency in object-oriented programming allows to build scalable and efficient systems.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

@@ -11,7 +11,7 @@ export default function Skills(){
                         Skill & Technologies
                     </h1>
                     <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore, veritatis harum aut earum adipisci nemo saepe officiis itaque voluptas iste veniam voluptatibus magnam nostrum cum, voluptates quisquam impedit. Nisi, ut?
+
                     </p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
