@@ -1,22 +1,20 @@
-
+import React from "react";
 import About from "./components/About";
-import Navbar from "./components/Navbar";
+import Contact from "./components/Contact";
+// import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Testimonals from "./components/Testimonals";
-import Contact from "./components/Contact";
+// import Testimonials from "./components/Testimonals";
 
-function App(){
-return(
- <main className="text-gray-400 bg-gray-900">
-  <Navbar/>
-  <About/>
-  <Projects/>
-  <Skills/>
-  <Testimonals/>
-  <Contact/>
-
- </main>
-)
+export default function App() {
+  return (
+    <main className="text-gray-400 bg-gray-900 body-font">
+      {/* <Navbar /> */}
+      <About />
+      <Projects />
+      <Skills />
+      {/* <Testimonials /> */}
+      <Contact />
+    </main>
+  );
 }
-export default App;
